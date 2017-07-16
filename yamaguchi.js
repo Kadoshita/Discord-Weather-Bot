@@ -133,7 +133,7 @@ client.on('message', message => {
             timestamp : new Date(),
             footer : {
                 icon_url : 'http://openweathermap.org/img/w/' + yamaguchi_ico +'.png',
-                text : 'おてんきじょーほー'
+                text : 'このメッセージは天気情報のBotから配信されました。'
             }
         }})
     }
