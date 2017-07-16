@@ -133,7 +133,7 @@ client.on('message', message => {
             timestamp : new Date(),
             footer : {
                 icon_url : 'http://openweathermap.org/img/w/' + yamaguchi_ico +'.png',
-                text : 'This bot is corded by 3mdev. All rights reserved.'
+                text : 'おてんきじょーほー'
             }
         }})
     }
