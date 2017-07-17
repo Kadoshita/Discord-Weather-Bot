@@ -1,0 +1,24 @@
+{
+  "name": "discord-weather-bot",
+  "version": "1.0.0",
+  "description": "OpenWeatherAPIを使用してDiscord内から天気を取得する",
+  "main": "yamaguchi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakotiaFrontia/Discord-Weather-Bot.git"
+  },
+  "keywords": [
+    "天気",
+    "Discord",
+    "OpenWeatherAPI"
+  ],
+  "author": "MakotiaFrontia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakotiaFrontia/Discord-Weather-Bot/issues"
+  },
+  "homepage": "https://github.com/MakotiaFrontia/Discord-Weather-Bot#readme"
+}
