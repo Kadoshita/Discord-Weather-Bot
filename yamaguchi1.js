@@ -9,7 +9,6 @@ const client = new Discord.Client();
 const token = 'Discord_Token_here';
 var yamaguchi = JSON.parse(fs.readFileSync('./yamaguchi_weather.json', 'utf8'));
 var en = yamaguchi.weather[0].description;
-var en = Morioka.weather[0].description;
 var ja = translate(en);
 function translate(en){
     switch(en.toLowerCase()){
