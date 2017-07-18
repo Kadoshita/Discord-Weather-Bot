@@ -1,3 +1,2 @@
 # Discord-Weather-Bot
-Discord+OpenWeatherAPI用のリポジトリです。
-開発用ブランチです
+Discord+OpenWeatherAPI用のリポジトリの開発用ブランチです。
